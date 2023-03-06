@@ -12,7 +12,7 @@
     "prepublishOnly": "yarn clean:dist && yarn build"
   },
   "devDependencies": {
-    "next": "10.0.4"
+    "next": "13.2.3"
   },
   "peerDependencies": {
     "@fleur/fleur": "^3.0.0",
